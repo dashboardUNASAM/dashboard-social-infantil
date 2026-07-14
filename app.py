@@ -2134,7 +2134,7 @@ secciones_map = {
     "Número de Hijos": seccion_hijos,
     "Índice de Pobreza": seccion_pobreza,
     "Análisis por Distrito": seccion_distritos,
-    "Análisis Socioeconómico": seccion_analisis_socioeconomico
+    "📊 Análisis Socioeconómico": seccion_analisis_socioeconomico
 }
 
 try:
