@@ -12,7 +12,7 @@ Dashboard interactivo para el análisis de la población infantil de la provinci
 
 ### 🚀 Ver Dashboard en vivo
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://tu-usuario-dashboard-social-infantil.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dashboardUNASAM-dashboard-social-infantil.streamlit.app)
 
 ---
 
@@ -20,5 +20,5 @@ Dashboard interactivo para el análisis de la población infantil de la provinci
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/dashboard-social-infantil.git
+git clone https://github.com/dashboardUNASAM/dashboard-social-infantil.git
 cd dashboard-social-infantil
