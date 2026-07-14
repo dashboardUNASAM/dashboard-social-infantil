@@ -2134,7 +2134,7 @@ secciones_map = {
     "Número de Hijos": seccion_hijos,
     "Índice de Pobreza": seccion_pobreza,
     "Análisis por Distrito": seccion_distritos,
-    "📊 Análisis Socioeconómico": seccion_analisis_socioeconomico
+    "Análisis Socioeconómico": seccion_analisis_socioeconomico
 }
 
 try:
@@ -2153,7 +2153,7 @@ st.markdown("""
 <div style="text-align: center; padding: 12px 0; color: #7a8ba3; font-size: 12px; font-family: 'Inter', sans-serif;">
     <strong style="color: #0f1a2e;">Universidad Nacional "Santiago Antúnez de Mayolo"</strong><br>
     Facultad de Ciencias · Escuela Profesional de Estadística e Informática<br>
-    Investigación Formativa · 2025
+    Investigación Formativa · 2026
 </div>
 """, unsafe_allow_html=True)
 
