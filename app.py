@@ -15,7 +15,7 @@ import traceback
 
 st.set_page_config(
     page_title="Dashboard Social Infantil - Yungay",
-    page_icon="📊",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
